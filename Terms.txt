@@ -1,0 +1,276 @@
+
+  **Terms Of Service**
+<PetFlare Terms & Conditions>
+
+1. General Terms
+1.1 Acceptance of Terms
+By accessing or using the PetFlare website (the "Service"), you agree to be bound by these Terms of Service. This Service is intended for users ages 4 and older. If you do not agree to all the terms and conditions of this agreement, you may not access the Service or use any of its features.
+
+1.2 Changes to Terms
+We reserve the right to modify these Terms of Service at any time. We will provide notice of significant changes, and your continued use of the Service after such changes constitutes your acceptance of the new terms.
+
+2. User Accounts
+To use certain features of the Service, you may need to create an account. You are responsible for keeping your account information secure and for all activity that occurs under your account. You agree not to:
+
+Create an account with false information
+Share your account password with anyone else
+Buy, sell, transfer, or trade accounts
+Create multiple accounts to bypass rules or moderation actions
+You must provide accurate and complete information when creating an account and keep this information up to date.
+
+3. User Conduct and Prohibitions
+We expect all users to be kind and respectful. Your use of the Service must comply with all applicable laws and regulations. You agree not to engage in the following prohibited behaviors:
+
+No impersonation: Do not pretend to be someone you are not. This includes other users, PetFlare staff, or any other individual or entity.
+No harassment: Do not harass, bully, or intimidate other users. This includes repeated unwanted contact, threats, or spreading private information.
+No spam or advertising: Do not distribute or promote spam, junk mail, or any form of unauthorized advertising.
+No commercial use: Do not use the Any Of Our Api services Or Private Code for any Commercial Use without prior written permission from PetFlare And This Includes Copying the Game Or Game style.
+3.1 Prohibited Content
+You may not post, upload, or share content that is:
+
+Violating Terms Of Service: Content that violates any of the terms and conditions of the Service or the PetFlare Terms of Service.
+Copyright infringement: Content that infringes on the intellectual property rights of others.
+Spam or advertising: Content that is spam, promotional, or otherwise designed to attract or generate revenue for others.
+Harassment or bullying: Content that is harassing, abusive, or bullying in nature.
+Hate speech: Any content that promotes discrimination, disparagement, or violence against individuals or groups based on race, ethnicity, religion, gender identity, sexual orientation, disability, or other similar characteristics.
+Violence and graphic material: Content depicting or glorifying extreme violence, gore, or animal cruelty.
+Self-harm: Content that encourages or provides instructions on how to self-harm.
+Sexually explicit material: Any pornographic or sexually explicit content.
+Illegal or dangerous activities: Content that promotes or instructs on illegal acts, such as hacking, drug use, or violence.
+Sensitive topics: Content that discusses sensitive or inappropriate topics not suitable for our young user base, including but not limited to gambling.
+3.2 Prohibited Technical Use
+You may not engage in any of the following technical activities:
+
+Unauthorized Updating Of Sensitive Code: Do Not Update Any Sensitive Code On your Own With Third Party Applications / Services
+Interference: Engaging in any activity that could damage, disable, overburden, or impair the Service.
+Unauthorized access: Attempting to gain unauthorized access to any part of the Service, other users' accounts, or our systems.
+Automated access: Using any bot, spider, scraper, or other automated means to access the Service for any purpose without our express written permission.
+Data scraping: Collecting or harvesting any personally identifiable information from the Service.
+Reverse engineering: Attempting to decompile, reverse engineer, or discover the source code of the Service.
+Malicious code: Uploading or transmitting viruses, worms, or any other type of malicious code.
+// Example of prohibited technical activity
+function maliciousCode() {
+  while(true) {
+    console.log("This would overload the system!");
+  }
+}
+4. Reporting and Moderation
+PetFlare uses moderation to ensure the safety and well-being of our community, especially for our young users.
+
+4.1 Reporting Violations
+If you see a user breaking the rules, please report them to us using the report function. When you report a user, please provide as much information as possible to help us investigate the issue.
+
+4.2 Enforcement
+We reserve the right to take any action we deem necessary to enforce these Terms of Service, including but not limited to:
+
+Removing user-generated content
+Temporarily suspending or permanently terminating an account
+Limiting access to certain features of the Service
+Our moderation decisions are not final and can be appealed.
+
+5. Intellectual Property
+All content on the PetFlare website, including but not limited to text, graphics, logos, and software, is the property of PetFlare and protected by intellectual property laws. You may not copy, reproduce, or use our intellectual property without our express written permission.
+
+5.1 PetFlare's Property
+All content on the PetFlare website, including but not limited to text, graphics, logos, and software, is the property of PetFlare and protected by intellectual property laws. You may not copy, reproduce, or use our intellectual property without our express written permission.
+
+5.2 User Content License
+You are solely responsible for any content you post on PetFlare. By posting content, you grant PetFlare a worldwide, non-exclusive, royalty-free license to use, reproduce, modify, and display the content in connection with the Service.
+
+6. Legal Disclaimers & Provisions
+6.1 Disclaimer of Warranties
+The Service is provided "AS IS" and "AS AVAILABLE" without any warranties of any kind, whether express or implied. We do not guarantee that the Service will be uninterrupted, error-free, or secure.
+
+6.2 Limitation of Liability
+In no event shall PetFlare, nor its directors, employees, or partners, be liable for any direct, indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, or other intangible losses, resulting from your access to or use of the Service.
+
+6.3 Indemnification
+You agree to indemnify and hold harmless PetFlare and its officers, directors, employees, and agents from any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees) arising from your use of and access to the Service, or your violation of these Terms of Service.
+
+6.4 Governing Law
+These Terms shall be governed and construed in accordance with the laws of the Country of Egypt And The Egyptian Jurisdiction, without regard to its conflict of law provisions.
+
+6.5 Third-Party Links
+The Service may contain links to third-party websites or services that are not owned or controlled by PetFlare. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites or services.
+
+6.6 Termination
+We may terminate or suspend your account and access to the Service immediately, without prior notice or liability, for any reason, including without limitation if you breach these Terms of Service. Upon termination, your right to use the Service will immediately cease.
+
+6.7 Privacy Policy
+Your use of the Service is also governed by our Privacy Policy, which is incorporated by reference into these Terms of Service.
+
+6.8 Changes to the Service
+We reserve the right to modify, suspend, or discontinue the Service, or any part of it, at any time without notice. We will not be liable to you or any third party for any such modification, suspension, or discontinuation.
+
+7. Privacy and Data Protection
+We take your privacy seriously. By using our Service, you agree to our data collection and usage practices as described in our Privacy Policy.
+
+Data Collection: We collect only necessary information to provide and improve our services.
+Children's Privacy: We comply with COPPA and do not knowingly collect personal information from children under 13 without parental consent.
+Data Security: We implement appropriate security measures to protect your information.
+Third-Party Sharing: We do not sell your personal data to third parties.
+Data Retention: We retain your information only for as long as necessary to provide our services.
+Your Rights: You may request access to, correction of, or deletion of your personal data.
+Cookies: We use cookies to enhance your experience on our platform.
+IP Addresses: For security purposes, we may log IP addresses of users who violate these Terms or engage in harmful behavior. This information is accessed only when necessary, never sold or shared with third parties, and retained only as long as needed to protect the Service.
+8. Payments and Billing
+Certain features of PetFlare may require payment. By using these features, you agree to the following terms:
+
+Payment Authorization: You authorize us to charge all fees to your designated payment method.
+Subscription Terms: Subscriptions automatically renew until canceled by you.
+Price Changes: We may change our pricing with 30 days notice to current subscribers.
+Refund Policy: All payments are non-refundable except as required by law.
+Free Trials: Free trials automatically convert to paid subscriptions unless canceled before the trial ends.
+Taxes: You are responsible for any applicable taxes related to your purchases.
+9. User Content Ownership
+You retain ownership of the content you create on PetFlare, subject to the following:
+
+License Grant: You grant us a worldwide, royalty-free license to use, display, and distribute your content on our platform.
+Content Responsibility: You are solely responsible for the content you post.
+Moral Rights: You waive any moral rights to your content to the extent necessary for us to operate our service.
+Backups: We are not responsible for maintaining backups of your content.
+Content Removal: We may remove your content at any time for any reason.
+Deletion: Content may persist in backup copies for a reasonable time after deletion.
+10. Communication Policies
+PetFlare provides various communication channels. When using these features, you agree to:
+
+Appropriate Language: Use language appropriate for our diverse user base.
+No Spamming: Do not send unsolicited messages to other users.
+Respect Boundaries: Respect other users' communication preferences.
+Reporting: Report any abusive communication to our moderation team.
+No Automated Messaging: Do not use bots or automated systems to send messages.
+Emergency Situations: Do not use our platform to report emergencies - contact local authorities instead.
+Communication Monitoring: We may monitor communications to ensure compliance with our policies.
+11. Safety Guidelines
+Your safety is important to us. Please follow these safety guidelines:
+
+Personal Information: Never share personal information such as your address, phone number, or financial details.
+Meeting Offline: We strongly discourage arranging in-person meetings with other users.
+Password Security: Use a strong, unique password for your PetFlare account.
+Suspicious Activity: Report any suspicious activity or users immediately.
+Age Verification: Do not misrepresent your age or attempt to bypass age restrictions.
+Parental Controls: We provide parental controls for accounts of users under 13.
+Emergency Preparedness: Know how to block and report users who make you uncomfortable.
+12. Third-Party Services
+PetFlare may integrate with or link to third-party services. When using these services:
+
+External Links: We are not responsible for content on external websites.
+API Usage: Third-party developers using our API must comply with our developer terms.
+Data Sharing: We are not liable for data practices of third-party services.
+Endorsement: Integration with a third-party service does not imply endorsement.
+Changes: We may change or discontinue third-party integrations at any time.
+Compliance: Third-party services must comply with our policies to maintain integration.
+13. Dispute Resolution
+In the event of a dispute, the following terms apply:
+
+Informal Resolution: We encourage you to contact us first to resolve any issues informally. While we cannot require this, it is encouraged to resolve matters informally unless it is a serious matter.
+Arbitration: Most disputes are encouraged to be resolved through binding arbitration rather than in court.
+Governing Law: These Terms are governed by the laws of the Egyptian Government.
+Venue: Any legal proceedings must be brought in the courts located in Al Sharkia, Egypt.
+Time Limit: You must bring any claims within one year of the incident.
+14. Accessibility Commitment
+PetFlare is committed to accessibility for all users. Our policies include:
+
+WCAG Compliance: We strive to meet WCAG 2.1 Level AA guidelines.
+Feedback: We welcome feedback on accessibility issues.
+Assistive Technology: We support major assistive technologies and screen readers.
+Continuous Improvement: We regularly review and improve accessibility features.
+Alternative Formats: We provide content in alternative formats upon request.
+Accessibility Team: We have a dedicated team addressing accessibility concerns.
+15. Account Termination
+Your account on PetFlare may be terminated under the following circumstances:
+
+Violation of Terms: We may terminate your account if you violate these Terms.
+Your Request: You may delete your account at any time through account settings. This is the only case where you can create a new account and continue using our Service.
+Effect of Termination: Upon termination, your right to use the Service immediately ceases.
+Content Retention: Some content may remain on our servers after account deletion.
+Appeals: You may appeal account termination by contacting our support team.
+Reactivation: We may reactivate terminated accounts at our discretion.
+16. Service Updates and Changes
+PetFlare is constantly evolving. Please note the following:
+
+Continuous Development: We regularly update and improve our Service.
+Feature Changes: We may add, modify, or remove features at any time.
+Notification: We will provide notice of significant changes to the Service.
+Downtime: The Service may be temporarily unavailable during maintenance.
+Backward Compatibility: We cannot guarantee that older content will remain compatible with new versions.
+Beta Features: Some features may be labeled as beta and may not function perfectly.
+17. User Responsibility for Actions
+You are responsible for your actions and content on PetFlare. This includes complying with all applicable laws, such as Egypt's Consumer Protection Law (No. 181 of 2018), Data Protection Law (No. 151 of 2020), Child Law (No. 12 of 1996), and international laws like COPPA (U.S.) and GDPR (EU).
+
+PetFlare is not liable for harm or legal violations caused by your actions, including:
+
+Posting content that violates our rules (see Section 3.1), such as inappropriate, harmful, or illegal material.
+Engaging in harassment, bullying, or other behavior that harms young or adult users.
+Sharing personal information without consent, in violation of privacy laws.
+We are committed to a safe, family-friendly environment, especially for our young users. We use content moderation, reporting tools, and parental controls to enforce our rules and protect users, as required by Egyptian law and COPPA. However, we are not responsible for user actions beyond our reasonable control. Violations may lead to account suspension, termination, or legal action by affected parties.
+
+To report unsafe behavior or content, use our report feature or email petflare@duck.com.
+
+18. User Expectations and Obligations
+We expect you to provide honest criticism, feedback, or reviews about Our Game.
+
+However, you must be aware that there are:
+
+Admin Rights:
+Respect, fairness, and kindness are expected from all administrators. Admins have the responsibility of banning members and reporting suspicious activity to upper management.
+
+Review Moderators:
+People dedicated to moderating and filtering all reviews that are submitted.
+
+Owner-Given Moderation:
+Moderation by the owner of the game themselves.
+
+You are obligated not to be racist, sexist, discriminatory, or use discriminatory behavior. You must not threaten others, be toxic, be violent, spam, use hate speech, or commit crimes. Any verbal or physical crimes that you threaten or commit are logged and can and will be used against you, as your reviews are redirected to our reviews dashboard for admins to read.
+
+To report unsafe behavior or content, use our report feature or email petflare@duck.com. As admins, we can take appropriate action against violators.
+
+19. Text Formatting Guide
+PetFlare supports Discord-like text formatting to help you express yourself better. Here's how to use it:
+
+Do not use formatting for any illegal activity, or for leading users off the platform without valid reasons. Do not use formatting to trick users, or for scamming, phishing, or anything that violates our User Conduct policies.
+
+Text Formatting Examples
+Bold Text
+
+Surround text with double asterisks
+
+Example: Bold becomes Bold
+
+Italic Text
+
+Surround text with single asterisks or _underscores_
+
+Example: Italic becomes Italic
+
+Bold Italic Text
+
+Surround text with triple asterisks
+
+Example: Bold Italic becomes Bold Italic
+
+Inline Code
+
+Surround text with backticks
+
+Example: console.log() becomes console.log()
+
+Code Blocks
+
+Use ` on lines before and after your code
+
+`javascript
+function hello() {
+  console.log("Hello, PetFlare!");
+}
+`
+Spoiler Tags
+
+Surround text with double bars
+
+Example: Spoiler becomes Spoiler (click to reveal)
+
+Note: Formatting may be limited in certain areas of the platform to maintain a safe environment for our younger users.
+
+© 2025 PetFlare. All Rights Reserved.
+  
